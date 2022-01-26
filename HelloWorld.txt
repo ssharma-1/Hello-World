@@ -6,4 +6,6 @@ Another Change to test out and ensure.
 
 Trying one more time to merge using Git commands.
 
-Let's see ifg I can make this happen.
+Let's see if I can make this happen.
+
+Trying again!
