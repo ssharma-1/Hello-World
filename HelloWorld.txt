@@ -9,3 +9,5 @@ Trying one more time to merge using Git commands.
 Let's see if I can make this happen.
 
 Trying again!
+
+This is a try from newBranch.
